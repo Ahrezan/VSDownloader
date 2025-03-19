@@ -1,4 +1,6 @@
-![VSDownloader Logo](path-to-your-image.png)
+<p align="center">
+  <img src="vsdlogo.png" width="300">
+</p>
 
 # VSDownloader 5.1
 
