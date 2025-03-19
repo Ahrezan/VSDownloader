@@ -2,7 +2,7 @@
   <img src="vsd.png" width="300">
 </p>
 
-<h1 align="center"># VSDownloader 5.1</h1>
+<span align="center"># VSDownloader 5.1</span>
 
 VSDownloader 5.1 is a free and open-source application designed for downloading audio and video content from platforms like YouTube and Spotify. Currently, the Spotify functionality is under development. This tool provides a user-friendly interface with a range of customizable features, making it easy for users to download content in various formats and quality options.
 
