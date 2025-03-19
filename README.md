@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vsdlogo.png" width="300">
+  <img src="vsd.png" width="300">
 </p>
 
 # VSDownloader 5.1
